@@ -6,8 +6,8 @@
 ## Overview
 
 [0. Development Environment](#0)  
-[1. Abnormal detection using VAE](#1)   
-[2. Context Encoder](#2)  
+[1. Abnormal detection using VAE - PA1](#1)   
+[2. Context Encoder - PA2](#2)  
 
 
 ## 0. Development Environment <a id="0"></a>

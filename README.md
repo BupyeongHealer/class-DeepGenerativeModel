@@ -16,11 +16,11 @@
 - Language : Python3.x, Pytorch
 
 
-## 1. Abnormal detection using VAE <a id="1"></a>
+## 1. Abnormal detection using VAE (PA1)<a id="1"></a>
 ![alt 1번이미지](/image/img1.png)
 ![alt 2번이미지](/image/img2.png)
 
-## 2. Context Encoder <a id="2"></a>
+## 2. Context Encoder (PA2)<a id="2"></a>
 ![alt 3번이미지](/image/img3.png)
 
 

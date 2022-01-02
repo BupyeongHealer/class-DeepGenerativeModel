@@ -1,6 +1,6 @@
 # class-DeepGenerativeModel
 
-- implementing deep generative model using python & pytorch.
+- Implement the deep generative model using python & pytorch.
 - Contents : VAE, GAN, Context-encoder
 
 ## Overview
